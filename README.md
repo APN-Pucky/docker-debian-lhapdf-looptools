@@ -1,5 +1,6 @@
-# apnpucky/docker-debian-cmake-boost-gfortran
+# apnpucky/docker-debian-lhapdf-looptools
+https://hub.docker.com/r/apnpucky/docker-debian-lhapdf-looptools
 
 ### Overview
-This image provides a Debian Jessie with the GNU's gcc and make and many more installed.
+This image provides a Debian Jessie with the lhapdf and looptools installed.
 
